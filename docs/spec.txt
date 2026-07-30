@@ -1,0 +1,1 @@
+A short tech spec in plain text.
